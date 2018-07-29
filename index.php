@@ -1,4 +1,6 @@
 <?php
 
-		echo "olá mundo";
+		echo "olá mundo 1";
+		
+		echo "olá Carol linda";
   ?>
